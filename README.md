@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- Currently learning: React JS
+- Proficient in: Java, Python, HTML, CSS, Javascript, PHP
+- Currently working on: Photoshop plugin - UXP, Scanlation descrambler - Python, photoshop scripts - JSX
+- How to reach me: Discord (m3mber)
+
 <!--
 **M3mberTM/M3mberTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
