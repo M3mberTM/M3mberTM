@@ -10,8 +10,8 @@
   # Main Repositories
 - 📘 [***M3mberTM/imageToAscii***](https://github.com/M3mberTM/imageToAscii) <br/>
 Python application to convert images into text (Ascii). Comes with modes to convert into text, create an image with the text, convert video and also real time camera conversion.
-- 📘 [***M3mberTM/ReactPagePlugin***](https://github.com/M3mberTM/ReactPagePlugin) <br/>
-Adobe Photoshop plugin made using React JS to allow easier work on remaking of comic works. Allows users to have only one page open at a time and easier saving using patterns. Works only in Photoshop 2020 and higher.  
+- 📘 [***M3mberTM/PageOpeningPlugin***](https://github.com/M3mberTM/PageOpeningPlugin) <br/>
+An Adobe Photoshop Plugin made using HTML, CSS and JS for working on manga/manhwa/manhua pages. Allows for easier saving using predetermined template and movement between pages without having to drag pages into the application.
 - 📘 [***M3mberTM/Photoshop-Scripts***](https://github.com/M3mberTM/Photoshop-Scripts) <br/>
 Simple Adobe Photoshop scripts that make work easier, especially in the field of Scanlation.
 
