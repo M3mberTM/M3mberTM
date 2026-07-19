@@ -4,7 +4,7 @@
 - **Field of Study:** Computer Science
 - **University:** Häme University of Applied Sciences
 - **Coding Skills:** Javascript, ReactJS, Java, Python, HTML, CSS, ExtendScript
-- **Other Skills:** Photoshop, InDesign, Vim
+- **Other Skills:** Photoshop, InDesign, Vim, Linux, Docker
 - **Languages:** English C2, Slovak Native, Czech Bilingual
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,py,mysql,mongodb,neovim)
