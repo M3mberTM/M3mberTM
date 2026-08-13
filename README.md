@@ -19,5 +19,5 @@ Simple Adobe Photoshop scripts that make work easier, especially in the field of
 A Typescript app that allows you to add drawings and text to GIFs and videos.
 
   # Links & Contact
-  - **LinkedIn:** [Link](www.linkedin.com/in/richard-svajdlenka)
+  - **LinkedIn:** [Link](https://www.linkedin.com/in/richard-svajdlenka)
   - **Discord:** m3mber
