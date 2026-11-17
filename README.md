@@ -1,11 +1,11 @@
 # Main info
 - **Name:** Richard Švajdlenka
-- **Currently Residing:** Finland
-- **Field of Study:** Computer Science
-- **University:** Häme University of Applied Sciences
-- **Coding Skills:** Javascript, Typescript, ReactJS, Java, Python, HTML, CSS, ExtendScript
+- **Currently Residing:** Denmark
+- **Field of Study:** Software Engineering
+- **University:** Syddansk Universitet
+- **Coding Skills:** Javascript, Typescript, ReactJS, Java, Python, HTML, CSS, ExtendScript, C#
 - **Other Skills:** Photoshop, InDesign, Vim, Linux, Docker
-- **Languages:** English C2, Slovak Native, Czech Bilingual
+- **Languages:** English C2, Slovak Native, Czech Bilingual, Danish A2
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,py,mysql,mongodb,neovim,typescript)
   # Main Repositories
